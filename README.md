@@ -59,9 +59,9 @@ DSA-in-CPP/
 
 | Topic | Status |
 |---------|---------|
-| Arrays | 🟢 Completed |
-| Vectors | 🟢 Completed |
-| Strings | 🟡 In Progress |
+| Arrays  | 🟡 Learning |
+| Vectors | ⚪ Not Started |
+| Strings | ⚪ Not Started |
 | Sorting | ⚪ Not Started |
 | Searching | ⚪ Not Started |
 | Recursion | ⚪ Not Started |
