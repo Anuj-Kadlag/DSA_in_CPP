@@ -110,7 +110,7 @@ Space Complexity: O(1)
 
 | Date | Topic | Problems Solved |
 |------|--------|----------------|
-| DD-MM-YYYY | Arrays | 5 |
+| 14-June-2026 | Arrays | 3 |
 
 ---
 
