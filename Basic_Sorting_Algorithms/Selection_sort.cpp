@@ -1,3 +1,19 @@
+/*
+Problem: Selection Sort
+
+Approach:
+- Find the minimum element in the unsorted portion.
+- Swap it with the current position.
+- Repeat until the array is sorted.
+
+Time Complexity:
+Best Case: O(n²)
+Average Case: O(n²)
+Worst Case: O(n²)
+
+Space Complexity: O(1)
+*/
+
 #include <iostream>
 using namespace std;
 
