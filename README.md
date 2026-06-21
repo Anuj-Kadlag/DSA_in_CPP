@@ -60,7 +60,7 @@ DSA-in-CPP/
 | Topic | Status |
 |---------|---------|
 | Arrays  | 🟡 Learning |
-| Sorting | ⚪ Not Started |
+| Sorting | 🟡 Learning |
 | Searching | ⚪ Not Started |
 | Strings | ⚪ Not Started |
 | Vectors | ⚪ Not Started |
